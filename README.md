@@ -3,7 +3,7 @@
 
 ### *Leveraging Data Science and Predictive Modeling to Improve Workforce Efficiency*
 
-![Absenteeism](https://image-link-if-you-have-one.png)
+![Absenteeism](https://github.com/Mohit-Singh-261097/employee-absenteeism-analysis/blob/main/enhanced_absenteeism_by_job.png)
 
 ## **Table of Contents**
 - [Introduction](#introduction)
