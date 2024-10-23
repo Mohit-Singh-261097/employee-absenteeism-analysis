@@ -23,7 +23,7 @@ The models used in this project include:
 ## Tableau Dashboard
 We have also created an interactive dashboard to visualize absenteeism patterns across departments, job titles, and other factors. 
 
-You can explore the interactive Tableau dashboard here: [Tableau Dashboard](<Insert_Link_to_Tableau>)
+You can explore the interactive Tableau dashboard here: [Tableau Dashboard](https://public.tableau.com/app/profile/mohit3943/viz/Absentism_Analysis/Dashboard1?publish=yes)
 
 ## Results
 - The Random Forest model showed the highest accuracy, reaching nearly 99% in classification tasks.
